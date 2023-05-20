@@ -4,7 +4,7 @@ I have a Master's degree in Engineering and I've started learning to code at the
 
 I have worked with a variety of different languages and technologies. While I am still developing my skills, I have a good understanding and feel comfortable with the following:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,github,docker,vscode,linux,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,github,docker,vscode,emacs,aws,linux,raspberrypi,arduino)](https://skillicons.dev)
 
 --- 
 
